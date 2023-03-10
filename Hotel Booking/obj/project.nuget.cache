@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8MltCPP52294qqgo2WgngQ9wDBbE8BKgKXdRCTRGZ8xhsI0fEdnQCmbnEyhyQw6H8ZK/1UWs04Sf0tWhIA4+UA==",
+  "dgSpecHash": "ciVj2fxo5ENfwa4tK4ZI5E86mAATlmIGqp1sSXB8yy83sYcPT1im8FQ7x3/iKvKapAfSE/MbaW9BJ4fJx4wPQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alden\\Documents\\Projects\\Github\\Hotel-Booking-System\\Hotel Booking\\Hotel Booking.csproj",
+  "projectFilePath": "C:\\Users\\alden\\Documents\\Projects\\RiderProjects\\Hotel-Booking-System\\Hotel Booking\\Hotel Booking.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alden\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.13\\microsoft.aspnetcore.authorization.6.0.13.nupkg.sha512",
     "C:\\Users\\alden\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.13\\microsoft.aspnetcore.components.6.0.13.nupkg.sha512",

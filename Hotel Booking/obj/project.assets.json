@@ -1768,11 +1768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alden\\Documents\\Projects\\Github\\Hotel-Booking-System\\Hotel Booking\\Hotel Booking.csproj",
+      "projectUniqueName": "C:\\Users\\alden\\Documents\\Projects\\RiderProjects\\Hotel-Booking-System\\Hotel Booking\\Hotel Booking.csproj",
       "projectName": "Hotel Booking",
-      "projectPath": "C:\\Users\\alden\\Documents\\Projects\\Github\\Hotel-Booking-System\\Hotel Booking\\Hotel Booking.csproj",
+      "projectPath": "C:\\Users\\alden\\Documents\\Projects\\RiderProjects\\Hotel-Booking-System\\Hotel Booking\\Hotel Booking.csproj",
       "packagesPath": "C:\\Users\\alden\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alden\\Documents\\Projects\\Github\\Hotel-Booking-System\\Hotel Booking\\obj\\",
+      "outputPath": "C:\\Users\\alden\\Documents\\Projects\\RiderProjects\\Hotel-Booking-System\\Hotel Booking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Users\\alden\\scoop\\apps\\godot-mono\\current\\editor_data\\mono\\GodotNuGetFallbackFolder"
